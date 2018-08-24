@@ -1,0 +1,8 @@
+#!/bin/bash
+
+PYTHIA6PATH=$PWD
+export PYTHIA6PATH
+
+echo "SETTING NEW ENVIRONMENT VARIABLE PYTHIA6PATH AS $PYTHIA6PATH"
+
+echo "All environment variables set"
